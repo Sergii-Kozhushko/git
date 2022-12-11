@@ -1,0 +1,11 @@
+1. Создать новый проект в Идее. К примеру C:\Users\Admin\Hibernate
+2. Зайти в гитбаш
+3. зайти в директорию проекта
+4. git init (создаст файлы гита в папке проекта, папку .git
+5. git add *.java - добавить рекурсивно файлы для слежения
+6. git commit -m "first commit" (скопировать файлы проекта в локальный гит с комментарием коммита)
+7. git branch -M main (?)
+8. git remote add origin https://github.com/Sergii-Kozhushko/test.git - связать тек реп с удаленным, удаленный надо создать
+9. git push -u origin main - скопировать файл из лок репо на удаленный
+10. Попросит логин Sergii-Kozhushko
+11. На запрос пароля ввести классиечский токен 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
