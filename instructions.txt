@@ -8,4 +8,4 @@
 8. git remote add origin https://github.com/Sergii-Kozhushko/test.git - связать тек реп с удаленным, удаленный надо создать
 9. git push -u origin main - скопировать файл из лок репо на удаленный
 10. Попросит логин Sergii-Kozhushko
-11. На запрос пароля ввести классиечский токен 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
+11. На запрос пароля ввести классиечский токен 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
